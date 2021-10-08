@@ -1,4 +1,4 @@
-module go_mod_app
+module simple-golang-uuid
 
 go 1.17
 
